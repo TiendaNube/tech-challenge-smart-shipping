@@ -5,7 +5,7 @@ Shipping costs are expensive. Our team is working to validate a business concept
 Your challenge is to build a PoC and validate the usability of our business concept.
 
 ## Functional requirements
-- We want a RESTful API that given different shipping options from our external API , is able to recommend the same shipping options ordered by the best combination of cost and time.
+- We want a RESTful API that given different shipping options from our <strong>[external API](https://shipping-options-api.herokuapp.com/v1/shipping_options)</strong>, is able to recommend the same shipping options ordered by the best combination of cost and time.
 
 ## Technical requirements
 - Write down unit tests for the main logic
