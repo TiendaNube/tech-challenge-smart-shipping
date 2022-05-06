@@ -20,7 +20,7 @@ estimated_days: required, numeric
 
 ### Considerations
 - If there’s no shipping options available, the response should be an empty list;
-- You can use our external API v1/shipping_options endpoint in your implementation. <strong>Note: our external API returns a random response for each request.</strong>
+- You can use our external API [v1/shipping_options endpoint](https://shipping-options-api.herokuapp.com/v1/shipping_options) in your implementation. <strong>Note: our external API returns a random response for each request.</strong>
 - You must use the [acceptance criteria](#acceptance-criteria) to write down unit tests, mocking the shipping options and asserting the expected response. 
 
 ## Acceptance Criteria
